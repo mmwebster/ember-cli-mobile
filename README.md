@@ -12,3 +12,4 @@ To Do:
   - Navigation types w/ partitioned requests (some to mimic native, others not)
   - COMMENT
   - Offer backend starter options such as rails or firebase
+  - Example increased button size
